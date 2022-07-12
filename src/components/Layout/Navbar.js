@@ -71,6 +71,7 @@ const Navbar = () => {
         <Box sx={{
           marginX: {xs: 1, md: 3, lg: 5},
           marginBottom: {xs: 1, md: 2, lg: 3},
+          display: {md: 'none'}
         }}>
           <Box className='navbar-link-toggle-box'><Link className='navbar-link-toggle' to='/'>ГЛАВНАЯ</Link></Box>
           <Box className='navbar-link-toggle-box'><Link className='navbar-link-toggle' to='/catalogue'>КАТАЛОГ</Link></Box>
