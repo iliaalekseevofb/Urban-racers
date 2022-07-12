@@ -1,0 +1,24 @@
+.navbar-link {
+  width: fit-content;
+  height: fit-content;
+  font-family: 'Montserrat';
+  font-size: 12px;
+  line-height: 20px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #4F4F4F;
+  transition: 0.3s;
+  padding: 0 1rem;
+}
+
+.navbar-link:hover {
+  color: #F05454;
+}
+
+.navbar-button {
+  color: #fff;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  font-weight: 700;
+  background: #F05454;
+}
