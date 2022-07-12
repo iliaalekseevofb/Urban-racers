@@ -15,6 +15,21 @@
   color: #F05454;
 }
 
+.navbar-link-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-link-logo {
+  text-decoration: none;
+  font-family: 'Montserrat';
+  font-size: 8px;
+  color: #4F4F4F;
+  font-weight: 700;
+  line-height: 8px;
+}
+
 .navbar-button {
   color: #fff;
   font-family: 'Montserrat';
