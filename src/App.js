@@ -1,6 +1,6 @@
 import React from 'react';
 import Container from '@mui/material/Container';
-import Layout from './components/Layout';
+import Layout from './components/Layout/Layout';
 import { Catalogue, Contacts, Home, Info, More, NotFound } from './pages';
 import { Routes, Route } from 'react-router-dom';
 import './App.css';

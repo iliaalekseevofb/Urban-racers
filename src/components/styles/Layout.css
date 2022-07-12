@@ -22,3 +22,29 @@
   font-weight: 700;
   background: #F05454;
 }
+
+.navbar-link-toggle {
+  font-size: 18px;
+  color: #F05454;
+  font-family: 'Montserrat';
+  text-decoration: none;
+  transition: 0.3s;
+  font-weight: 700;
+}
+
+.navbar-link-toggle:hover {
+  color: #4F4F4F;
+}
+
+.navbar-link-toggle-box {
+  padding: 1rem 0;
+  border-bottom: 1px solid rgba(38, 38, 38, 0.08);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-underline {
+  border-bottom: none;
+}
